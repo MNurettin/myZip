@@ -52,7 +52,7 @@ int main(){
                     
         else{
             cout<<'('<<m<<','<<u<<')';
-            i+=u-1;ff
+            i+=u-1;
         }
 
     }
